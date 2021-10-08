@@ -21,7 +21,7 @@ Fill out the configuration settings in the script properties:
 
 You can access the hotkey settings using the standard OBS hotkeys panel (`File -> Settings -> Hotkeys`). The track assignments can be tested using the "Apply Track Settings" buttons on the script properties page.
 
-Track assignment changes occur in real time. Bear in mind that the OBS "Advanced Audio Properties" window does not refresh when track changes are made outside of the GUI. Close and re-open the audio properties window to see the changes.
+Track assignment changes occur in real time. On certain versions of OBS the "Advanced Audio Properties" window may not refresh when track changes are made outside of the GUI. Close and re-open the audio properties window to see the changes.
 
 ## License
 This script is licensed under the terms of the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), either version 3 of the License, or (at your option) any later version.
