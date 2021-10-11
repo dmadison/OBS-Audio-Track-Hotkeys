@@ -1,7 +1,7 @@
 #
 # Project     OBS Audio Track Hotkey Script
 # @author     David Madison
-# @link       github.com/dmadison/OBS-Track-Hotkeys
+# @link       github.com/dmadison/OBS-Audio-Track-Hotkeys
 # @license    GPLv3 - Copyright (c) 2021 David Madison
 #
 # This program is free software: you can redistribute it and/or modify
@@ -185,7 +185,7 @@ def script_description():
 			"<br/><br/>" + \
 			"partsnotincluded.com" + \
 			"<br/>" + \
-			"github.com/dmadison/OBS-Track-Hotkeys"
+			"github.com/dmadison/OBS-Audio-Track-Hotkeys"
 
 
 def script_update(settings):
